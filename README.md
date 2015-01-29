@@ -1,6 +1,6 @@
 ## Lambda Genesys2 Custom Device ##
 
-**Lambda Genesys2 Custom Device** is a variation of the shipping Lambda Genesys custom device. This variation improves error reporting by returning initialization errors to NI VeriStand and run time errors are printed to the console. 
+**Lambda Genesys2 Custom Device** is a variation of the shipping Lambda Genesys custom device. This variation improves error reporting by returning initialization errors to NI VeriStand and run time errors are printed to the console. These shortcomings of the shipping device have been reported to R&D in corrective action request 514201
 
 ### LabVIEW Version ###
 
